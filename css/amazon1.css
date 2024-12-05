@@ -1,0 +1,41 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+}
+.header{
+    background-color:black;
+    height: 50px;
+    color: white;
+}
+/* *layout*
+.container{
+    width: 100%;
+    height: 500px;
+     /* margin-top: -0px;  */
+/* }
+.container-header{
+     display: flex; 
+     align-items: center; 
+}
+
+
+/**logo**/
+/* .logo-container{
+    height: 100px;
+    width: 100%;
+ overflow: hidden; 
+
+} */
+ /* .logo { */
+   
+    /* height:50px;
+    width: 100px; */
+    /* background-repeat: no-repeat; */
+    /* background-position-y:-px ; */ 
+
+    .logo:hover{
+    height: 40px;
+    border-color: white; 
+    }  
